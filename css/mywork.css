@@ -1,0 +1,15 @@
+.main{
+    min-height: 100vh;
+    /* border: 2px solid green; */
+    background-color: rgb(248, 242, 242);
+}
+.certificate{
+    width: 30vw;
+    height: 20vw;
+    margin-top: 25vh;
+    
+
+}
+.heading{
+    text-align: center;
+}
